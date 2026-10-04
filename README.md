@@ -1,4 +1,5 @@
 # Module--1-Assignment
+
 Data Cleaning	
 Check for the number of missing values marked with '?' in each column of the “Medical Examinations” Table and "Hospitalization Details" Table.	Medical examination table:2 values and Hospitalization Details:15 values (Highlighted in Yellow colour)
 Fill in the missing values of ‘month’ with Sep and ‘year’ with its average rounded to the nearest integer.	Month updated in Col:C  of Hospitalisation sheet and Year is 1982 (Highlighted in Yellow colour)
